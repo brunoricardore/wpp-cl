@@ -1,7 +1,7 @@
 {
   "name": "wppcl",
-  "version": "1.0.0",
-  "description": "cli command for Whatsapp with no need for contant add",
+  "version": "1.0.1",
+  "description": "cli command for Whatsapp with no need to add a new contact",
   "main": "index.js",
   "bin": {
 	  "wppcl": "./index.js"
