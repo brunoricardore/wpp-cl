@@ -1,0 +1,15 @@
+{
+  "name": "wppcl",
+  "version": "1.0.0",
+  "description": "cli command for Whatsapp with no need for contant add",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^8.4.0",
+    "yargs": "^17.5.1"
+  }
+}
